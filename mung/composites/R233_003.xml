@@ -1,0 +1,1699 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CropObjectList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<CropObjects>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___0">
+	<Id>0</Id>
+	<ClassName>g_clef</ClassName>
+	<Top>66</Top>
+	<Left>737</Left>
+	<Width>16</Width>
+	<Height>41</Height>
+	<Mask>0:8 1:6 0:8 1:9 0:5 1:11 0:3 1:13 0:2 1:14 0:2 1:14 0:2 1:14 0:3 1:3 0:1 1:9 0:3 1:13 0:3 1:13 0:3 1:12 0:4 1:12 0:7 1:8 0:8 1:7 0:9 1:7 0:8 1:8 0:6 1:11 0:5 1:13 0:2 1:15 0:1 1:15 0:1 1:15 0:1 1:15 0:1 1:15 0:1 1:2 0:2 1:10 0:2 1:2 0:4 1:7 0:9 1:6 0:8 1:7 0:8 1:7 0:7 1:8 0:7 1:11 0:5 1:12 0:4 1:14 0:2 1:14 0:1 1:15 0:1 1:15 0:1 1:15 0:1 1:15 0:1 1:15 0:1 1:15 0:1 1:13 0:4 1:9 0:6</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___1">
+	<Id>1</Id>
+	<ClassName>g_clef</ClassName>
+	<Top>141</Top>
+	<Left>648</Left>
+	<Width>15</Width>
+	<Height>42</Height>
+	<Mask>0:0 1:630</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___2">
+	<Id>2</Id>
+	<ClassName>g_clef</ClassName>
+	<Top>213</Top>
+	<Left>649</Left>
+	<Width>15</Width>
+	<Height>41</Height>
+	<Mask>0:0 1:615</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___3">
+	<Id>3</Id>
+	<ClassName>g_clef</ClassName>
+	<Top>285</Top>
+	<Left>650</Left>
+	<Width>15</Width>
+	<Height>41</Height>
+	<Mask>0:0 1:615</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___4">
+	<Id>4</Id>
+	<ClassName>g_clef</ClassName>
+	<Top>357</Top>
+	<Left>650</Left>
+	<Width>16</Width>
+	<Height>42</Height>
+	<Mask>0:0 1:672</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___5">
+	<Id>5</Id>
+	<ClassName>g_clef</ClassName>
+	<Top>430</Top>
+	<Left>652</Left>
+	<Width>16</Width>
+	<Height>42</Height>
+	<Mask>0:0 1:672</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___6">
+	<Id>6</Id>
+	<ClassName>g_clef</ClassName>
+	<Top>503</Top>
+	<Left>651</Left>
+	<Width>15</Width>
+	<Height>41</Height>
+	<Mask>0:0 1:615</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___7">
+	<Id>7</Id>
+	<ClassName>flat</ClassName>
+	<Top>504</Top>
+	<Left>674</Left>
+	<Width>9</Width>
+	<Height>26</Height>
+	<Mask>0:2 1:3 0:6 1:4 0:4 1:4 0:5 1:4 0:4 1:5 0:4 1:5 0:5 1:4 0:4 1:5 0:4 1:4 0:5 1:4 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:4 0:5 1:7 0:2 1:7 0:2 1:8 0:2 1:7 0:1 1:8 0:1 1:8 0:1 1:7 0:2 1:7 0:3 1:5 0:2</Mask>
+	<Inlinks>22</Inlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___10">
+	<Id>10</Id>
+	<ClassName>flat</ClassName>
+	<Top>288</Top>
+	<Left>673</Left>
+	<Width>9</Width>
+	<Height>26</Height>
+	<Mask>0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:17 0:1 1:8 0:1 1:8 0:1 1:17 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8</Mask>
+	<Inlinks>19</Inlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___11">
+	<Id>11</Id>
+	<ClassName>flat</ClassName>
+	<Top>361</Top>
+	<Left>672</Left>
+	<Width>8</Width>
+	<Height>25</Height>
+	<Mask>0:0 1:200</Mask>
+	<Inlinks>20</Inlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___12">
+	<Id>12</Id>
+	<ClassName>flat</ClassName>
+	<Top>433</Top>
+	<Left>670</Left>
+	<Width>9</Width>
+	<Height>25</Height>
+	<Mask>0:0 1:225</Mask>
+	<Inlinks>21</Inlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___13">
+	<Id>13</Id>
+	<ClassName>flat</ClassName>
+	<Top>216</Top>
+	<Left>670</Left>
+	<Width>10</Width>
+	<Height>25</Height>
+	<Mask>0:0 1:250</Mask>
+	<Inlinks>18</Inlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___14">
+	<Id>14</Id>
+	<ClassName>flat</ClassName>
+	<Top>144</Top>
+	<Left>669</Left>
+	<Width>7</Width>
+	<Height>25</Height>
+	<Mask>0:0 1:175</Mask>
+	<Inlinks>17</Inlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___15">
+	<Id>15</Id>
+	<ClassName>flat</ClassName>
+	<Top>71</Top>
+	<Left>757</Left>
+	<Width>10</Width>
+	<Height>26</Height>
+	<Mask>0:0 1:260</Mask>
+	<Inlinks>16</Inlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___16">
+	<Id>16</Id>
+	<ClassName>key_signature</ClassName>
+	<Top>71</Top>
+	<Left>757</Left>
+	<Width>10</Width>
+	<Height>26</Height>
+	<Mask>0:0 1:260</Mask>
+	<Outlinks>15</Outlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___17">
+	<Id>17</Id>
+	<ClassName>key_signature</ClassName>
+	<Top>144</Top>
+	<Left>669</Left>
+	<Width>7</Width>
+	<Height>25</Height>
+	<Mask>0:0 1:175</Mask>
+	<Outlinks>14</Outlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___18">
+	<Id>18</Id>
+	<ClassName>key_signature</ClassName>
+	<Top>216</Top>
+	<Left>670</Left>
+	<Width>10</Width>
+	<Height>25</Height>
+	<Mask>0:0 1:250</Mask>
+	<Outlinks>13</Outlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___19">
+	<Id>19</Id>
+	<ClassName>key_signature</ClassName>
+	<Top>288</Top>
+	<Left>673</Left>
+	<Width>9</Width>
+	<Height>26</Height>
+	<Mask>0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:17 0:1 1:8 0:1 1:8 0:1 1:17 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8</Mask>
+	<Outlinks>10</Outlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___20">
+	<Id>20</Id>
+	<ClassName>key_signature</ClassName>
+	<Top>361</Top>
+	<Left>672</Left>
+	<Width>8</Width>
+	<Height>25</Height>
+	<Mask>0:0 1:200</Mask>
+	<Outlinks>11</Outlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___21">
+	<Id>21</Id>
+	<ClassName>key_signature</ClassName>
+	<Top>433</Top>
+	<Left>670</Left>
+	<Width>9</Width>
+	<Height>25</Height>
+	<Mask>0:0 1:225</Mask>
+	<Outlinks>12</Outlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___22">
+	<Id>22</Id>
+	<ClassName>key_signature</ClassName>
+	<Top>504</Top>
+	<Left>674</Left>
+	<Width>9</Width>
+	<Height>26</Height>
+	<Mask>0:2 1:3 0:6 1:4 0:4 1:4 0:5 1:4 0:4 1:5 0:4 1:5 0:5 1:4 0:4 1:5 0:4 1:4 0:5 1:4 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:4 0:5 1:7 0:2 1:7 0:2 1:8 0:2 1:7 0:1 1:8 0:1 1:8 0:1 1:7 0:2 1:7 0:3 1:5 0:2</Mask>
+	<Outlinks>7</Outlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___24">
+	<Id>24</Id>
+	<ClassName>common_time</ClassName>
+	<Top>85</Top>
+	<Left>773</Left>
+	<Width>11</Width>
+	<Height>14</Height>
+	<Mask>0:3 1:2 0:8 1:9 0:1 1:20 0:1 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:4 0:8 1:9 0:3 1:8 0:3 1:8 0:5 1:6 0:1</Mask>
+	<Inlinks>25</Inlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___25">
+	<Id>25</Id>
+	<ClassName>time_signature</ClassName>
+	<Top>85</Top>
+	<Left>773</Left>
+	<Width>11</Width>
+	<Height>14</Height>
+	<Mask>0:3 1:2 0:8 1:9 0:1 1:20 0:1 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:4 0:8 1:9 0:3 1:8 0:3 1:8 0:5 1:6 0:1</Mask>
+	<Outlinks>24</Outlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___273">
+	<Id>273</Id>
+	<ClassName>sharp</ClassName>
+	<Top>155</Top>
+	<Left>1006</Left>
+	<Width>7</Width>
+	<Height>13</Height>
+	<Mask>0:2 1:5 0:1 1:6 0:1 1:34 0:1 1:19 0:1 1:6 0:1 1:5 0:2 1:3 0:4</Mask>
+	<Inlinks>400</Inlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___274">
+	<Id>274</Id>
+	<ClassName>sharp</ClassName>
+	<Top>155</Top>
+	<Left>1043</Left>
+	<Width>9</Width>
+	<Height>10</Height>
+	<Mask>0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:8 0:1 1:7 0:2 1:7 0:2 1:7 0:1 1:18 0:1 1:7 0:1</Mask>
+	<Inlinks>399</Inlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___275">
+	<Id>275</Id>
+	<ClassName>sharp</ClassName>
+	<Top>375</Top>
+	<Left>1066</Left>
+	<Width>12</Width>
+	<Height>12</Height>
+	<Mask>0:0 1:11 0:2 1:10 0:2 1:10 0:3 1:8 0:5 1:6 0:6 1:5 0:8 1:6 0:6 1:8 0:3 1:9 0:3 1:9 0:2 1:10 0:2 1:8 0:2</Mask>
+	<Inlinks>363</Inlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___276">
+	<Id>276</Id>
+	<ClassName>proportio_minor</ClassName>
+	<Top>373</Top>
+	<Left>851</Left>
+	<Width>8</Width>
+	<Height>16</Height>
+	<Mask>0:3 1:3 0:2 1:7 0:1 1:1 0:2 1:5 0:3 1:5 0:2 1:2 0:1 1:3 0:2 1:1 0:1 1:2 0:3 1:4 0:5 1:2 0:6 1:2 0:7 1:3 0:6 1:3 0:5 1:3 0:1 1:7 0:1 1:4 0:1 1:2 0:1 1:7 0:1 1:6 0:2</Mask>
+	<Inlinks>295</Inlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___277">
+	<Id>277</Id>
+	<ClassName>proportio_minor</ClassName>
+	<Top>445</Top>
+	<Left>955</Left>
+	<Width>11</Width>
+	<Height>17</Height>
+	<Mask>0:4 1:2 0:8 1:6 0:5 1:8 0:4 1:2 0:1 1:4 0:4 1:2 0:1 1:4 0:6 1:4 0:3 1:7 0:3 1:7 0:4 1:7 0:6 1:6 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:1 0:1 1:2 0:2 1:1 0:1 1:8 0:1 1:9 0:3 1:5 0:5</Mask>
+	<Inlinks>296</Inlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___282">
+	<Id>282</Id>
+	<ClassName>dot</ClassName>
+	<Top>76</Top>
+	<Left>907</Left>
+	<Width>6</Width>
+	<Height>6</Height>
+	<Mask>0:0 1:12 0:1 1:10 0:2 1:4 0:2 1:4 0:1</Mask>
+	<Inlinks>389</Inlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___283">
+	<Id>283</Id>
+	<ClassName>dot</ClassName>
+	<Top>68</Top>
+	<Left>971</Left>
+	<Width>6</Width>
+	<Height>4</Height>
+	<Mask>0:2 1:15 0:2 1:3 0:2</Mask>
+	<Inlinks>394</Inlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___284">
+	<Id>284</Id>
+	<ClassName>dot</ClassName>
+	<Top>167</Top>
+	<Left>987</Left>
+	<Width>5</Width>
+	<Height>6</Height>
+	<Mask>0:0 1:25 0:1 1:3 0:1</Mask>
+	<Inlinks>334</Inlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___285">
+	<Id>285</Id>
+	<ClassName>dot</ClassName>
+	<Top>429</Top>
+	<Left>861</Left>
+	<Width>5</Width>
+	<Height>6</Height>
+	<Mask>0:0 1:30</Mask>
+	<Inlinks>370</Inlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___286">
+	<Id>286</Id>
+	<ClassName>dot</ClassName>
+	<Top>358</Top>
+	<Left>765</Left>
+	<Width>5</Width>
+	<Height>5</Height>
+	<Mask>0:0 1:25</Mask>
+	<Inlinks>369</Inlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___287">
+	<Id>287</Id>
+	<ClassName>custos</ClassName>
+	<Top>67</Top>
+	<Left>1099</Left>
+	<Width>15</Width>
+	<Height>23</Height>
+	<Mask>0:11 1:4 0:11 1:4 0:11 1:4 0:11 1:4 0:11 1:4 0:11 1:4 0:11 1:4 0:10 1:5 0:10 1:5 0:10 1:5 0:10 1:5 0:10 1:5 0:10 1:5 0:10 1:4 0:11 1:4 0:11 1:4 0:11 1:3 0:8 1:2 0:2 1:2 0:3 1:12 0:3 1:12 0:3 1:12 0:5 1:10 0:13 1:1 0:4</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___288">
+	<Id>288</Id>
+	<ClassName>custos</ClassName>
+	<Top>140</Top>
+	<Left>1097</Left>
+	<Width>16</Width>
+	<Height>23</Height>
+	<Mask>0:13 1:1 0:15 1:2 0:14 1:3 0:13 1:3 0:12 1:4 0:12 1:4 0:12 1:4 0:11 1:5 0:11 1:5 0:11 1:5 0:11 1:5 0:10 1:6 0:10 1:6 0:10 1:6 0:10 1:5 0:11 1:5 0:11 1:4 0:4 1:12 0:2 1:14 0:3 1:11 0:5 1:10 0:6 1:10 0:6 1:3 0:12</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___289">
+	<Id>289</Id>
+	<ClassName>custos</ClassName>
+	<Top>219</Top>
+	<Left>1097</Left>
+	<Width>15</Width>
+	<Height>24</Height>
+	<Mask>0:0 1:360</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___292">
+	<Id>292</Id>
+	<ClassName>custos</ClassName>
+	<Top>285</Top>
+	<Left>1098</Left>
+	<Width>15</Width>
+	<Height>17</Height>
+	<Mask>0:6 1:1 0:7 1:241</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___293">
+	<Id>293</Id>
+	<ClassName>custos</ClassName>
+	<Top>355</Top>
+	<Left>1098</Left>
+	<Width>16</Width>
+	<Height>24</Height>
+	<Mask>0:10 1:5 0:10 1:6 0:10 1:6 0:1 1:336</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___294">
+	<Id>294</Id>
+	<ClassName>custos</ClassName>
+	<Top>428</Top>
+	<Left>1097</Left>
+	<Width>12</Width>
+	<Height>11</Height>
+	<Mask>0:0 1:1 0:11 1:3 0:9 1:7 0:3 1:86 0:10 1:2</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___295">
+	<Id>295</Id>
+	<ClassName>time_signature</ClassName>
+	<Top>373</Top>
+	<Left>851</Left>
+	<Width>8</Width>
+	<Height>16</Height>
+	<Mask>0:3 1:3 0:2 1:7 0:1 1:1 0:2 1:5 0:3 1:5 0:2 1:2 0:1 1:3 0:2 1:1 0:1 1:2 0:3 1:4 0:5 1:2 0:6 1:2 0:7 1:3 0:6 1:3 0:5 1:3 0:1 1:7 0:1 1:4 0:1 1:2 0:1 1:7 0:1 1:6 0:2</Mask>
+	<Outlinks>276</Outlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___296">
+	<Id>296</Id>
+	<ClassName>time_signature</ClassName>
+	<Top>445</Top>
+	<Left>955</Left>
+	<Width>11</Width>
+	<Height>17</Height>
+	<Mask>0:4 1:2 0:8 1:6 0:5 1:8 0:4 1:2 0:1 1:4 0:4 1:2 0:1 1:4 0:6 1:4 0:3 1:7 0:3 1:7 0:4 1:7 0:6 1:6 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:1 0:1 1:2 0:2 1:1 0:1 1:8 0:1 1:9 0:3 1:5 0:5</Mask>
+	<Outlinks>277</Outlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___297">
+	<Id>297</Id>
+	<ClassName>common_time</ClassName>
+	<Top>373</Top>
+	<Left>1055</Left>
+	<Width>11</Width>
+	<Height>16</Height>
+	<Mask>0:3 1:1 0:8 1:3 0:2 1:4 0:1 1:3 0:2 1:8 0:1 1:3 0:5 1:6 0:5 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:9 1:2 0:9 1:3 0:6 1:1 0:2 1:9 0:2 1:9 0:3 1:7 0:4 1:1 0:1 1:2 0:4</Mask>
+	<Inlinks>298</Inlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___298">
+	<Id>298</Id>
+	<ClassName>time_signature</ClassName>
+	<Top>373</Top>
+	<Left>1055</Left>
+	<Width>11</Width>
+	<Height>16</Height>
+	<Mask>0:3 1:1 0:8 1:3 0:2 1:4 0:1 1:3 0:2 1:8 0:1 1:3 0:5 1:6 0:5 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:9 1:2 0:9 1:3 0:6 1:1 0:2 1:9 0:2 1:9 0:3 1:7 0:4 1:1 0:1 1:2 0:4</Mask>
+	<Outlinks>297</Outlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___299">
+	<Id>299</Id>
+	<ClassName>brevis_rest</ClassName>
+	<Top>298</Top>
+	<Left>1024</Left>
+	<Width>6</Width>
+	<Height>14</Height>
+	<Mask>0:1 1:3 0:3 1:3 0:3 1:5 0:1 1:4 0:2 1:5 0:1 1:4 0:2 1:4 0:2 1:4 0:2 1:4 0:2 1:4 0:1 1:5 0:1 1:5 0:1 1:5 0:1 1:1 0:5</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___300">
+	<Id>300</Id>
+	<ClassName>semibrevis_rest</ClassName>
+	<Top>163</Top>
+	<Left>813</Left>
+	<Width>6</Width>
+	<Height>8</Height>
+	<Mask>0:0 1:48</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___301">
+	<Id>301</Id>
+	<ClassName>semibrevis_rest</ClassName>
+	<Top>297</Top>
+	<Left>1012</Left>
+	<Width>5</Width>
+	<Height>8</Height>
+	<Mask>0:0 1:1 0:4 1:29 0:1 1:3 0:2</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___302">
+	<Id>302</Id>
+	<ClassName>semibrevis_rest</ClassName>
+	<Top>444</Top>
+	<Left>931</Left>
+	<Width>5</Width>
+	<Height>7</Height>
+	<Mask>0:0 1:35</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___303">
+	<Id>303</Id>
+	<ClassName>semibrevis_rest</ClassName>
+	<Top>444</Top>
+	<Left>686</Left>
+	<Width>5</Width>
+	<Height>7</Height>
+	<Mask>0:0 1:35</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___304">
+	<Id>304</Id>
+	<ClassName>semibrevis_rest</ClassName>
+	<Top>373</Top>
+	<Left>829</Left>
+	<Width>6</Width>
+	<Height>7</Height>
+	<Mask>0:0 1:42</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___305">
+	<Id>305</Id>
+	<ClassName>semibrevis_rest</ClassName>
+	<Top>155</Top>
+	<Left>1085</Left>
+	<Width>6</Width>
+	<Height>7</Height>
+	<Mask>0:0 1:42</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___306">
+	<Id>306</Id>
+	<ClassName>minima_rest</ClassName>
+	<Top>222</Top>
+	<Left>790</Left>
+	<Width>5</Width>
+	<Height>9</Height>
+	<Mask>0:2 1:18 0:1 1:24</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___307">
+	<Id>307</Id>
+	<ClassName>minima_rest</ClassName>
+	<Top>230</Top>
+	<Left>682</Left>
+	<Width>6</Width>
+	<Height>9</Height>
+	<Mask>0:3 1:2 0:3 1:3 0:3 1:3 0:2 1:4 0:1 1:12 0:1 1:5 0:1 1:5 0:1 1:5</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___308">
+	<Id>308</Id>
+	<ClassName>minima_rest</ClassName>
+	<Top>311</Top>
+	<Left>867</Left>
+	<Width>6</Width>
+	<Height>9</Height>
+	<Mask>0:3 1:2 0:3 1:4 0:2 1:4 0:1 1:5 0:1 1:22 0:1 1:5 0:1</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___309">
+	<Id>309</Id>
+	<ClassName>double_barline</ClassName>
+	<Top>502</Top>
+	<Left>780</Left>
+	<Width>10</Width>
+	<Height>49</Height>
+	<Mask>0:2 1:1 0:9 1:1 0:3 1:2 0:3 1:3 0:1 1:3 0:3 1:3 0:1 1:3 0:3 1:3 0:1 1:3 0:3 1:3 0:1 1:4 0:2 1:3 0:1 1:4 0:2 1:3 0:2 1:3 0:2 1:3 0:1 1:4 0:2 1:3 0:2 1:3 0:2 1:3 0:1 1:4 0:2 1:2 0:2 1:4 0:2 1:2 0:2 1:4 0:2 1:2 0:3 1:3 0:2 1:2 0:2 1:4 0:2 1:2 0:2 1:4 0:2 1:2 0:2 1:4 0:2 1:2 0:2 1:4 0:2 1:2 0:2 1:4 0:2 1:2 0:2 1:4 0:2 1:2 0:3 1:3 0:2 1:2 0:2 1:4 0:2 1:2 0:2 1:4 0:2 1:2 0:2 1:4 0:2 1:2 0:2 1:4 0:2 1:2 0:2 1:4 0:2 1:2 0:3 1:3 0:2 1:2 0:2 1:4 0:2 1:2 0:2 1:4 0:2 1:2 0:2 1:4 0:2 1:2 0:2 1:4 0:2 1:2 0:2 1:4 0:2 1:2 0:1 1:5 0:2 1:2 0:1 1:6 0:1 1:2 0:1 1:6 0:1 1:2 0:1 1:6 0:1 1:2 0:1 1:6 0:1 1:2 0:1 1:6 0:1 1:2 0:1 1:6 0:1 1:2 0:1 1:6 0:1 1:2 0:1 1:6 0:1 1:2 0:1 1:6 0:1 1:2 0:1 1:6 0:1 1:2 0:2 1:4 0:2 1:2 0:2 1:9 0:1 1:14 0:1 1:8 0:3 1:5 0:4</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___310">
+	<Id>310</Id>
+	<ClassName>semibrevis_rest</ClassName>
+	<Top>453</Top>
+	<Left>942</Left>
+	<Width>5</Width>
+	<Height>8</Height>
+	<Mask>0:0 1:40</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___311">
+	<Id>311</Id>
+	<ClassName>semibrevis_rest</ClassName>
+	<Top>381</Top>
+	<Left>840</Left>
+	<Width>6</Width>
+	<Height>8</Height>
+	<Mask>0:0 1:48</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___312">
+	<Id>312</Id>
+	<ClassName>semiminima_rest</ClassName>
+	<Top>447</Top>
+	<Left>709</Left>
+	<Width>7</Width>
+	<Height>10</Height>
+	<Mask>0:2 1:23 0:4 1:3 0:4 1:3 0:4 1:3 0:4 1:3 0:4 1:2 0:5 1:1 0:5</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___313">
+	<Id>313</Id>
+	<ClassName>semiminima_rest</ClassName>
+	<Top>446</Top>
+	<Left>777</Left>
+	<Width>6</Width>
+	<Height>9</Height>
+	<Mask>0:3 1:3 0:1 1:5 0:1 1:5 0:1 1:5 0:2 1:14 0:3 1:3 0:3 1:3 0:2</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___314">
+	<Id>314</Id>
+	<ClassName>semiminima_rest</ClassName>
+	<Top>302</Top>
+	<Left>735</Left>
+	<Width>6</Width>
+	<Height>9</Height>
+	<Mask>0:1 1:3 0:2 1:23 0:1 1:5 0:2 1:3 0:2 1:4 0:2 1:3 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___315">
+	<Id>315</Id>
+	<ClassName>semiminima_rest</ClassName>
+	<Top>366</Top>
+	<Left>689</Left>
+	<Width>5</Width>
+	<Height>10</Height>
+	<Mask>0:0 1:50</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___316">
+	<Id>316</Id>
+	<ClassName>semiminima_rest</ClassName>
+	<Top>302</Top>
+	<Left>1047</Left>
+	<Width>5</Width>
+	<Height>9</Height>
+	<Mask>0:0 1:45</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___317">
+	<Id>317</Id>
+	<ClassName>semiminima_rest</ClassName>
+	<Top>229</Top>
+	<Left>918</Left>
+	<Width>5</Width>
+	<Height>9</Height>
+	<Mask>0:0 1:45</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___318">
+	<Id>318</Id>
+	<ClassName>minima_rest</ClassName>
+	<Top>301</Top>
+	<Left>1035</Left>
+	<Width>5</Width>
+	<Height>10</Height>
+	<Mask>0:0 1:50</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___319">
+	<Id>319</Id>
+	<ClassName>minima_rest</ClassName>
+	<Top>301</Top>
+	<Left>1090</Left>
+	<Width>5</Width>
+	<Height>10</Height>
+	<Mask>0:0 1:50</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___320">
+	<Id>320</Id>
+	<ClassName>minima_rest</ClassName>
+	<Top>373</Top>
+	<Left>1092</Left>
+	<Width>5</Width>
+	<Height>10</Height>
+	<Mask>0:0 1:50</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___321">
+	<Id>321</Id>
+	<ClassName>minima_rest</ClassName>
+	<Top>447</Top>
+	<Left>697</Left>
+	<Width>6</Width>
+	<Height>9</Height>
+	<Mask>0:0 1:54</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___322">
+	<Id>322</Id>
+	<ClassName>semiminima_rest</ClassName>
+	<Top>231</Top>
+	<Left>692</Left>
+	<Width>5</Width>
+	<Height>10</Height>
+	<Mask>0:0 1:50</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___323">
+	<Id>323</Id>
+	<ClassName>semibrevis</ClassName>
+	<Top>67</Top>
+	<Left>788</Left>
+	<Width>13</Width>
+	<Height>14</Height>
+	<Mask>0:5 1:1 0:11 1:2 0:11 1:5 0:8 1:6 0:7 1:7 0:5 1:9 0:3 1:11 0:1 1:24 0:1 1:12 0:2 1:11 0:3 1:8 0:6 1:6 0:8 1:5 0:4</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___324">
+	<Id>324</Id>
+	<ClassName>minima</ClassName>
+	<Top>75</Top>
+	<Left>807</Left>
+	<Width>12</Width>
+	<Height>38</Height>
+	<Mask>0:4 1:2 0:10 1:3 0:8 1:5 0:6 1:7 0:5 1:7 0:4 1:9 0:2 1:11 0:1 1:11 0:1 1:23 0:1 1:10 0:3 1:9 0:4 1:7 0:6 1:5 0:7 1:5 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:3 0:9 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:5</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___325">
+	<Id>325</Id>
+	<ClassName>semibrevis</ClassName>
+	<Top>80</Top>
+	<Left>827</Left>
+	<Width>10</Width>
+	<Height>16</Height>
+	<Mask>0:4 1:1 0:9 1:3 0:6 1:4 0:5 1:5 0:4 1:7 0:3 1:39 0:1 1:9 0:1 1:8 0:3 1:6 0:4 1:6 0:5 1:5 0:5 1:4 0:6 1:3 0:4</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___326">
+	<Id>326</Id>
+	<ClassName>minima</ClassName>
+	<Top>67</Top>
+	<Left>880</Left>
+	<Width>11</Width>
+	<Height>39</Height>
+	<Mask>0:6 1:1 0:8 1:3 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:9 1:2 0:8 1:3 0:8 1:3 0:8 1:4 0:7 1:5 0:5 1:7 0:3 1:9 0:1 1:33 0:1 1:10 0:1 1:9 0:3 1:8 0:3 1:7 0:5 1:6 0:6 1:5 0:6 1:4 0:8 1:2 0:4</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___327">
+	<Id>327</Id>
+	<ClassName>semibrevis</ClassName>
+	<Top>161</Top>
+	<Left>775</Left>
+	<Width>13</Width>
+	<Height>16</Height>
+	<Mask>0:5 1:2 0:10 1:4 0:9 1:4 0:9 1:5 0:8 1:7 0:4 1:10 0:3 1:11 0:1 1:24 0:2 1:10 0:4 1:8 0:5 1:7 0:7 1:6 0:8 1:4 0:9 1:4 0:10 1:2 0:6</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___328">
+	<Id>328</Id>
+	<ClassName>semibrevis</ClassName>
+	<Top>148</Top>
+	<Left>828</Left>
+	<Width>12</Width>
+	<Height>15</Height>
+	<Mask>0:6 1:1 0:10 1:3 0:7 1:5 0:7 1:6 0:5 1:8 0:3 1:10 0:2 1:46 0:1 1:10 0:3 1:8 0:6 1:5 0:7 1:4 0:9 1:1 0:7</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___329">
+	<Id>329</Id>
+	<ClassName>minima</ClassName>
+	<Top>147</Top>
+	<Left>847</Left>
+	<Width>12</Width>
+	<Height>36</Height>
+	<Mask>0:5 1:1 0:11 1:3 0:8 1:5 0:6 1:8 0:3 1:10 0:2 1:10 0:1 1:11 0:1 1:35 0:1 1:10 0:3 1:9 0:3 1:9 0:5 1:6 0:7 1:5 0:7 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:4</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___330">
+	<Id>330</Id>
+	<ClassName>minima</ClassName>
+	<Top>148</Top>
+	<Left>870</Left>
+	<Width>10</Width>
+	<Height>35</Height>
+	<Mask>0:4 1:2 0:8 1:2 0:7 1:5 0:4 1:7 0:2 1:8 0:2 1:9 0:1 1:29 0:1 1:9 0:1 1:8 0:3 1:7 0:3 1:6 0:5 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___331">
+	<Id>331</Id>
+	<ClassName>semibrevis</ClassName>
+	<Top>144</Top>
+	<Left>890</Left>
+	<Width>12</Width>
+	<Height>15</Height>
+	<Mask>0:4 1:2 0:10 1:3 0:8 1:5 0:6 1:7 0:5 1:7 0:4 1:9 0:3 1:10 0:1 1:23 0:2 1:9 0:4 1:8 0:4 1:7 0:6 1:5 0:7 1:4 0:9 1:1 0:7</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___332">
+	<Id>332</Id>
+	<ClassName>minima</ClassName>
+	<Top>144</Top>
+	<Left>798</Left>
+	<Width>11</Width>
+	<Height>34</Height>
+	<Mask>0:4 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:7 1:4 0:6 1:6 0:4 1:7 0:4 1:8 0:2 1:10 0:1 1:11 0:1 1:10 0:1 1:5 0:1 1:3 0:3 1:7 0:4 1:7 0:5 1:5 0:6 1:4 0:8 1:3 0:9 1:1 0:5</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___333">
+	<Id>333</Id>
+	<ClassName>minima</ClassName>
+	<Top>153</Top>
+	<Left>933</Left>
+	<Width>10</Width>
+	<Height>33</Height>
+	<Mask>0:3 1:7 0:2 1:8 0:2 1:8 0:1 1:9 0:1 1:9 0:1 1:89 0:1 1:9 0:4 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___334">
+	<Id>334</Id>
+	<ClassName>minima</ClassName>
+	<Top>144</Top>
+	<Left>976</Left>
+	<Width>11</Width>
+	<Height>35</Height>
+	<Mask>0:3 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:5 1:120 0:3 1:8 0:3 1:7 0:5 1:6 0:5 1:5 0:7 1:2 0:5</Mask>
+	<Outlinks>284</Outlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___335">
+	<Id>335</Id>
+	<ClassName>minima</ClassName>
+	<Top>149</Top>
+	<Left>1032</Left>
+	<Width>11</Width>
+	<Height>35</Height>
+	<Mask>0:5 1:1 0:9 1:3 0:7 1:5 0:6 1:5 0:5 1:7 0:3 1:9 0:1 1:10 0:1 1:22 0:2 1:8 0:3 1:7 0:5 1:5 0:7 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:4</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___336">
+	<Id>336</Id>
+	<ClassName>semibrevis</ClassName>
+	<Top>149</Top>
+	<Left>1072</Left>
+	<Width>10</Width>
+	<Height>14</Height>
+	<Mask>0:3 1:3 0:7 1:3 0:6 1:5 0:3 1:8 0:2 1:8 0:2 1:9 0:2 1:9 0:1 1:9 0:1 1:9 0:1 1:7 0:4 1:5 0:5 1:4 0:6 1:4 0:6 1:2 0:6</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___337">
+	<Id>337</Id>
+	<ClassName>minima</ClassName>
+	<Top>80</Top>
+	<Left>1070</Left>
+	<Width>9</Width>
+	<Height>37</Height>
+	<Mask>0:3 1:1 0:8 1:2 0:7 1:2 0:6 1:4 0:4 1:6 0:2 1:8 0:1 1:8 0:2 1:8 0:1 1:8 0:2 1:6 0:3 1:5 0:4 1:4 0:6 1:2 0:1 1:1 0:4 1:5 0:4 1:5 0:4 1:4 0:5 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:4 1:4 0:6 1:3 0:4</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___338">
+	<Id>338</Id>
+	<ClassName>minima</ClassName>
+	<Top>76</Top>
+	<Left>1087</Left>
+	<Width>8</Width>
+	<Height>38</Height>
+	<Mask>0:2 1:1 0:7 1:2 0:5 1:3 0:5 1:4 0:3 1:6 0:2 1:3 0:1 1:3 0:1 1:7 0:1 1:21 0:1 1:9 0:1 1:6 0:3 1:4 0:4 1:4 0:5 1:3 0:5 1:3 0:5 1:3 0:5 1:3 0:5 1:3 0:5 1:3 0:5 1:3 0:5 1:3 0:5 1:3 0:5 1:4 0:4 1:4 0:4 1:4 0:4 1:4 0:4 1:4 0:4 1:4 0:4 1:4 0:4 1:4 0:4 1:4 0:4 1:4 0:4 1:4 0:4 1:3 0:5 1:3 0:5 1:3 0:6 1:2 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___339">
+	<Id>339</Id>
+	<ClassName>minima</ClassName>
+	<Top>210</Top>
+	<Left>758</Left>
+	<Width>12</Width>
+	<Height>40</Height>
+	<Mask>0:0 1:192 0:17 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:4</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___340">
+	<Id>340</Id>
+	<ClassName>minima</ClassName>
+	<Top>222</Top>
+	<Left>775</Left>
+	<Width>12</Width>
+	<Height>35</Height>
+	<Mask>0:0 1:192 0:4 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:4</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___341">
+	<Id>341</Id>
+	<ClassName>minima</ClassName>
+	<Top>221</Top>
+	<Left>797</Left>
+	<Width>12</Width>
+	<Height>39</Height>
+	<Mask>0:0 1:192 0:4 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:4</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___342">
+	<Id>342</Id>
+	<ClassName>minima</ClassName>
+	<Top>283</Top>
+	<Left>719</Left>
+	<Width>11</Width>
+	<Height>35</Height>
+	<Mask>0:4 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:4 1:7 0:4 1:7 0:4 1:7 0:4 1:8 0:3 1:9 0:2 1:9 0:2 1:10 0:1 1:10 0:1 1:10 0:1 1:21 0:1 1:9 0:2 1:9 0:2 1:8 0:3 1:7 0:4 1:7 0:4</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___343">
+	<Id>343</Id>
+	<ClassName>minima</ClassName>
+	<Top>283</Top>
+	<Left>689</Left>
+	<Width>10</Width>
+	<Height>35</Height>
+	<Mask>0:2 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:4 1:160</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___344">
+	<Id>344</Id>
+	<ClassName>minima</ClassName>
+	<Top>220</Top>
+	<Left>885</Left>
+	<Width>12</Width>
+	<Height>36</Height>
+	<Mask>0:0 1:192 0:4 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:5</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___345">
+	<Id>345</Id>
+	<ClassName>minima</ClassName>
+	<Top>224</Top>
+	<Left>901</Left>
+	<Width>12</Width>
+	<Height>36</Height>
+	<Mask>0:0 1:192 0:4 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:4</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___346">
+	<Id>346</Id>
+	<ClassName>minima</ClassName>
+	<Top>281</Top>
+	<Left>937</Left>
+	<Width>12</Width>
+	<Height>37</Height>
+	<Mask>0:5 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:3 1:192</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___347">
+	<Id>347</Id>
+	<ClassName>minima</ClassName>
+	<Top>287</Top>
+	<Left>958</Left>
+	<Width>12</Width>
+	<Height>36</Height>
+	<Mask>0:0 1:192 0:4 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:4</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___348">
+	<Id>348</Id>
+	<ClassName>semibrevis</ClassName>
+	<Top>292</Top>
+	<Left>978</Left>
+	<Width>12</Width>
+	<Height>16</Height>
+	<Mask>0:0 1:192</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___349">
+	<Id>349</Id>
+	<ClassName>minima</ClassName>
+	<Top>220</Top>
+	<Left>992</Left>
+	<Width>12</Width>
+	<Height>34</Height>
+	<Mask>0:0 1:192 0:4 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:5</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___350">
+	<Id>350</Id>
+	<ClassName>minima</ClassName>
+	<Top>225</Top>
+	<Left>1008</Left>
+	<Width>12</Width>
+	<Height>35</Height>
+	<Mask>0:0 1:192 0:5 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:4</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___351">
+	<Id>351</Id>
+	<ClassName>minima</ClassName>
+	<Top>220</Top>
+	<Left>1028</Left>
+	<Width>12</Width>
+	<Height>37</Height>
+	<Mask>0:0 1:192 0:4 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:5</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___352">
+	<Id>352</Id>
+	<ClassName>minima</ClassName>
+	<Top>211</Top>
+	<Left>1062</Left>
+	<Width>12</Width>
+	<Height>35</Height>
+	<Mask>0:4 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:5 1:192</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___353">
+	<Id>353</Id>
+	<ClassName>minima</ClassName>
+	<Top>224</Top>
+	<Left>1078</Left>
+	<Width>12</Width>
+	<Height>34</Height>
+	<Mask>0:0 1:192 0:4 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:5</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___354">
+	<Id>354</Id>
+	<ClassName>minima</ClassName>
+	<Top>283</Top>
+	<Left>1076</Left>
+	<Width>12</Width>
+	<Height>36</Height>
+	<Mask>0:4 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:4 1:192</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___355">
+	<Id>355</Id>
+	<ClassName>semibrevis</ClassName>
+	<Top>363</Top>
+	<Left>1041</Left>
+	<Width>12</Width>
+	<Height>16</Height>
+	<Mask>0:0 1:192</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___356">
+	<Id>356</Id>
+	<ClassName>minima</ClassName>
+	<Top>365</Top>
+	<Left>1023</Left>
+	<Width>9</Width>
+	<Height>35</Height>
+	<Mask>0:0 1:117 0:4 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:2</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___357">
+	<Id>357</Id>
+	<ClassName>minima</ClassName>
+	<Top>357</Top>
+	<Left>1006</Left>
+	<Width>9</Width>
+	<Height>32</Height>
+	<Mask>0:0 1:117 0:3 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___358">
+	<Id>358</Id>
+	<ClassName>minima</ClassName>
+	<Top>356</Top>
+	<Left>989</Left>
+	<Width>9</Width>
+	<Height>34</Height>
+	<Mask>0:0 1:117 0:3 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___359">
+	<Id>359</Id>
+	<ClassName>minima</ClassName>
+	<Top>360</Top>
+	<Left>970</Left>
+	<Width>9</Width>
+	<Height>33</Height>
+	<Mask>0:3 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:3 1:117</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___360">
+	<Id>360</Id>
+	<ClassName>minima</ClassName>
+	<Top>356</Top>
+	<Left>949</Left>
+	<Width>9</Width>
+	<Height>32</Height>
+	<Mask>0:5 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:1 1:117</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___361">
+	<Id>361</Id>
+	<ClassName>semibrevis</ClassName>
+	<Top>371</Top>
+	<Left>929</Left>
+	<Width>9</Width>
+	<Height>13</Height>
+	<Mask>0:0 1:117</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___362">
+	<Id>362</Id>
+	<ClassName>minima</ClassName>
+	<Top>369</Top>
+	<Left>907</Left>
+	<Width>9</Width>
+	<Height>34</Height>
+	<Mask>0:0 1:117 0:4 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:2</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___363">
+	<Id>363</Id>
+	<ClassName>minima</ClassName>
+	<Top>354</Top>
+	<Left>1077</Left>
+	<Width>9</Width>
+	<Height>33</Height>
+	<Mask>0:5 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:1 1:117</Mask>
+	<Outlinks>275</Outlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___364">
+	<Id>364</Id>
+	<ClassName>semibrevis</ClassName>
+	<Top>292</Top>
+	<Left>998</Left>
+	<Width>10</Width>
+	<Height>13</Height>
+	<Mask>0:0 1:130</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___365">
+	<Id>365</Id>
+	<ClassName>minima</ClassName>
+	<Top>361</Top>
+	<Left>885</Left>
+	<Width>9</Width>
+	<Height>33</Height>
+	<Mask>0:3 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:3 1:117</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___366">
+	<Id>366</Id>
+	<ClassName>minima</ClassName>
+	<Top>360</Top>
+	<Left>863</Left>
+	<Width>9</Width>
+	<Height>33</Height>
+	<Mask>0:3 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:3 1:117</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___367">
+	<Id>367</Id>
+	<ClassName>minima</ClassName>
+	<Top>366</Top>
+	<Left>813</Left>
+	<Width>9</Width>
+	<Height>36</Height>
+	<Mask>0:0 1:117 0:3 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___368">
+	<Id>368</Id>
+	<ClassName>minima</ClassName>
+	<Top>362</Top>
+	<Left>795</Left>
+	<Width>9</Width>
+	<Height>34</Height>
+	<Mask>0:0 1:117 0:3 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___369">
+	<Id>369</Id>
+	<ClassName>minima</ClassName>
+	<Top>353</Top>
+	<Left>755</Left>
+	<Width>9</Width>
+	<Height>34</Height>
+	<Mask>0:0 1:117 0:4 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:1</Mask>
+	<Outlinks>286</Outlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___370">
+	<Id>370</Id>
+	<ClassName>minima</ClassName>
+	<Top>424</Top>
+	<Left>852</Left>
+	<Width>9</Width>
+	<Height>35</Height>
+	<Mask>0:0 1:117 0:4 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:1</Mask>
+	<Outlinks>285</Outlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___371">
+	<Id>371</Id>
+	<ClassName>minima</ClassName>
+	<Top>438</Top>
+	<Left>917</Left>
+	<Width>9</Width>
+	<Height>33</Height>
+	<Mask>0:0 1:117 0:3 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:2</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___372">
+	<Id>372</Id>
+	<ClassName>minima</ClassName>
+	<Top>433</Top>
+	<Left>895</Left>
+	<Width>9</Width>
+	<Height>36</Height>
+	<Mask>0:0 1:117 0:4 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:1</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___373">
+	<Id>373</Id>
+	<ClassName>minima</ClassName>
+	<Top>433</Top>
+	<Left>762</Left>
+	<Width>9</Width>
+	<Height>32</Height>
+	<Mask>0:3 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:3 1:117</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___374">
+	<Id>374</Id>
+	<ClassName>minima</ClassName>
+	<Top>428</Top>
+	<Left>741</Left>
+	<Width>9</Width>
+	<Height>32</Height>
+	<Mask>0:2 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:4 1:117</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___375">
+	<Id>375</Id>
+	<ClassName>minima</ClassName>
+	<Top>433</Top>
+	<Left>974</Left>
+	<Width>9</Width>
+	<Height>32</Height>
+	<Mask>0:2 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:3 1:117</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___376">
+	<Id>376</Id>
+	<ClassName>minima</ClassName>
+	<Top>433</Top>
+	<Left>996</Left>
+	<Width>9</Width>
+	<Height>33</Height>
+	<Mask>0:2 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:3 1:117</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___377">
+	<Id>377</Id>
+	<ClassName>minima</ClassName>
+	<Top>442</Top>
+	<Left>1014</Left>
+	<Width>9</Width>
+	<Height>32</Height>
+	<Mask>0:0 1:117 0:3 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:2</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___378">
+	<Id>378</Id>
+	<ClassName>semibrevis</ClassName>
+	<Top>443</Top>
+	<Left>1036</Left>
+	<Width>9</Width>
+	<Height>13</Height>
+	<Mask>0:0 1:117</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___379">
+	<Id>379</Id>
+	<ClassName>minima</ClassName>
+	<Top>428</Top>
+	<Left>1059</Left>
+	<Width>9</Width>
+	<Height>33</Height>
+	<Mask>0:3 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:2 1:117</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___380">
+	<Id>380</Id>
+	<ClassName>minima</ClassName>
+	<Top>432</Top>
+	<Left>1081</Left>
+	<Width>9</Width>
+	<Height>33</Height>
+	<Mask>0:2 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:3 1:117</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___381">
+	<Id>381</Id>
+	<ClassName>minima</ClassName>
+	<Top>296</Top>
+	<Left>838</Left>
+	<Width>9</Width>
+	<Height>34</Height>
+	<Mask>0:2 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:4 1:117</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___382">
+	<Id>382</Id>
+	<ClassName>minima</ClassName>
+	<Top>306</Top>
+	<Left>854</Left>
+	<Width>9</Width>
+	<Height>33</Height>
+	<Mask>0:3 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:2 1:117</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___383">
+	<Id>383</Id>
+	<ClassName>minima</ClassName>
+	<Top>502</Top>
+	<Left>694</Left>
+	<Width>9</Width>
+	<Height>35</Height>
+	<Mask>0:0 1:117 0:3 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___384">
+	<Id>384</Id>
+	<ClassName>minima</ClassName>
+	<Top>500</Top>
+	<Left>712</Left>
+	<Width>9</Width>
+	<Height>36</Height>
+	<Mask>0:0 1:117 0:4 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:2</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___385">
+	<Id>385</Id>
+	<ClassName>minima</ClassName>
+	<Top>511</Top>
+	<Left>729</Left>
+	<Width>9</Width>
+	<Height>35</Height>
+	<Mask>0:0 1:117 0:4 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:2</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___386">
+	<Id>386</Id>
+	<ClassName>semibrevis</ClassName>
+	<Top>509</Top>
+	<Left>747</Left>
+	<Width>9</Width>
+	<Height>13</Height>
+	<Mask>0:0 1:117</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___387">
+	<Id>387</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>78</Top>
+	<Left>842</Left>
+	<Width>13</Width>
+	<Height>38</Height>
+	<Mask>0:5 1:1 0:12 1:1 0:12 1:2 0:11 1:2 0:11 1:3 0:9 1:5 0:7 1:7 0:5 1:10 0:3 1:36 0:2 1:10 0:3 1:9 0:5 1:7 0:6 1:7 0:7 1:5 0:8 1:5 0:9 1:4 0:9 1:4 0:9 1:4 0:9 1:4 0:10 1:3 0:9 1:4 0:9 1:4 0:9 1:4 0:10 1:3 0:9 1:4 0:9 1:4 0:9 1:4 0:9 1:4 0:10 1:3 0:9 1:4 0:9 1:4 0:9 1:4 0:10 1:3 0:9 1:4 0:9 1:4 0:11 1:1 0:6</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___388">
+	<Id>388</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>61</Top>
+	<Left>862</Left>
+	<Width>10</Width>
+	<Height>39</Height>
+	<Mask>0:4 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:4 0:5 1:7 0:2 1:8 0:1 1:9 0:1 1:49 0:1 1:9 0:2 1:7 0:3 1:6 0:5 1:5 0:7 1:2 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___389">
+	<Id>389</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>75</Top>
+	<Left>897</Left>
+	<Width>12</Width>
+	<Height>39</Height>
+	<Mask>0:7 1:1 0:10 1:2 0:9 1:4 0:6 1:7 0:5 1:7 0:4 1:9 0:2 1:11 0:1 1:34 0:2 1:10 0:3 1:8 0:4 1:7 0:6 1:6 0:7 1:5 0:7 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:9 1:3 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:9 1:3 0:8 1:4 0:8 1:4 0:9 1:3 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:8 1:4 0:9 1:3 0:8 1:4 0:8 1:4 0:8 1:4 0:9 1:3 0:4</Mask>
+	<Outlinks>282</Outlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___390">
+	<Id>390</Id>
+	<ClassName>coloured_semiminima</ClassName>
+	<Top>81</Top>
+	<Left>917</Left>
+	<Width>12</Width>
+	<Height>37</Height>
+	<Mask>0:6 1:1 0:10 1:3 0:8 1:6 0:5 1:8 0:3 1:9 0:2 1:11 0:1 1:11 0:2 1:10 0:2 1:10 0:3 1:8 0:4 1:7 0:5 1:6 0:7 1:5 0:7 1:2 0:13 1:1 0:11 1:1 0:11 1:1 0:11 1:1 0:11 1:1 0:11 1:1 0:10 1:2 0:10 1:2 0:10 1:2 0:10 1:2 0:10 1:2 0:10 1:2 0:8 1:4 0:7 1:5 0:6 1:6 0:6 1:6 0:5 1:7 0:4 1:8 0:5 1:7 0:5 1:7 0:6 1:6 0:6 1:6 0:9 1:3 0:4</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___391">
+	<Id>391</Id>
+	<ClassName>coloured_semiminima</ClassName>
+	<Top>78</Top>
+	<Left>932</Left>
+	<Width>12</Width>
+	<Height>37</Height>
+	<Mask>0:4 1:4 0:8 1:4 0:7 1:6 0:5 1:9 0:3 1:9 0:2 1:35 0:1 1:11 0:1 1:11 0:2 1:8 0:4 1:7 0:6 1:5 0:7 1:1 0:1 1:2 0:10 1:2 0:10 1:2 0:10 1:2 0:10 1:2 0:10 1:2 0:10 1:2 0:10 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:9 1:3 0:8 1:4 0:7 1:5 0:5 1:7 0:6 1:6 0:6 1:6 0:7 1:5 0:7 1:5 0:8 1:3 0:9 1:3 0:10 1:2 0:5</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___392">
+	<Id>392</Id>
+	<ClassName>coloured_semiminima</ClassName>
+	<Top>70</Top>
+	<Left>947</Left>
+	<Width>12</Width>
+	<Height>38</Height>
+	<Mask>0:6 1:1 0:10 1:2 0:9 1:4 0:8 1:4 0:7 1:6 0:5 1:7 0:5 1:8 0:3 1:10 0:2 1:10 0:3 1:10 0:2 1:9 0:4 1:7 0:5 1:6 0:7 1:4 0:8 1:4 0:9 1:2 0:10 1:2 0:10 1:2 0:10 1:2 0:10 1:2 0:10 1:2 0:10 1:2 0:10 1:2 0:10 1:2 0:10 1:2 0:10 1:3 0:9 1:3 0:7 1:5 0:7 1:5 0:5 1:7 0:5 1:7 0:4 1:8 0:4 1:8 0:4 1:8 0:5 1:7 0:7 1:5 0:7 1:5 0:9 1:3 0:4</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___393">
+	<Id>393</Id>
+	<ClassName>coloured_semiminima</ClassName>
+	<Top>69</Top>
+	<Left>981</Left>
+	<Width>13</Width>
+	<Height>39</Height>
+	<Mask>0:6 1:1 0:12 1:1 0:11 1:2 0:10 1:5 0:7 1:7 0:6 1:8 0:4 1:10 0:2 1:1 0:1 1:36 0:1 1:11 0:3 1:9 0:5 1:8 0:5 1:7 0:7 1:5 0:9 1:4 0:10 1:3 0:10 1:3 0:10 1:3 0:10 1:2 0:11 1:2 0:5 1:3 0:3 1:2 0:5 1:4 0:2 1:2 0:5 1:8 0:6 1:7 0:8 1:6 0:9 1:5 0:8 1:5 0:7 1:6 0:6 1:7 0:5 1:8 0:5 1:7 0:5 1:8 0:7 1:6 0:8 1:5 0:9 1:4 0:10 1:3 0:11 1:1 0:12 1:1 0:5</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___394">
+	<Id>394</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>67</Top>
+	<Left>961</Left>
+	<Width>11</Width>
+	<Height>37</Height>
+	<Mask>0:3 1:3 0:8 1:4 0:6 1:6 0:5 1:7 0:3 1:8 0:2 1:10 0:1 1:33 0:1 1:10 0:2 1:9 0:2 1:8 0:4 1:6 0:5 1:5 0:7 1:4 0:7 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:4</Mask>
+	<Outlinks>283</Outlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___395">
+	<Id>395</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>79</Top>
+	<Left>1014</Left>
+	<Width>11</Width>
+	<Height>37</Height>
+	<Mask>0:5 1:1 0:9 1:2 0:8 1:4 0:7 1:5 0:5 1:7 0:4 1:8 0:2 1:9 0:1 1:33 0:1 1:9 0:3 1:8 0:3 1:7 0:5 1:5 0:6 1:4 0:7 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:9 1:2 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:3 0:8 1:2 0:6</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___396">
+	<Id>396</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>79</Top>
+	<Left>1033</Left>
+	<Width>10</Width>
+	<Height>38</Height>
+	<Mask>0:4 1:2 0:7 1:4 0:5 1:5 0:4 1:7 0:3 1:8 0:1 1:9 0:1 1:59 0:1 1:8 0:3 1:7 0:3 1:6 0:6 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:2 0:8 1:2 0:5</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___397">
+	<Id>397</Id>
+	<ClassName>coloured_semiminima</ClassName>
+	<Top>76</Top>
+	<Left>998</Left>
+	<Width>12</Width>
+	<Height>37</Height>
+	<Mask>0:7 1:1 0:9 1:4 0:8 1:5 0:5 1:7 0:5 1:8 0:4 1:8 0:3 1:10 0:2 1:10 0:2 1:10 0:2 1:9 0:3 1:8 0:5 1:7 0:5 1:6 0:7 1:4 0:9 1:3 0:10 1:2 0:10 1:2 0:10 1:2 0:10 1:2 0:10 1:2 0:4 1:9 0:3 1:9 0:3 1:9 0:3 1:9 0:3 1:9 0:3 1:9 0:3 1:9 0:3 1:9 0:3 1:9 0:3 1:9 0:3 1:9 0:3 1:9 0:3 1:9 0:3 1:9 0:3 1:9 0:3 1:9 0:3 1:9 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___398">
+	<Id>398</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>67</Top>
+	<Left>1050</Left>
+	<Width>9</Width>
+	<Height>34</Height>
+	<Mask>0:5 1:2 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:2 0:7 1:2 0:8 1:1 0:3 1:135</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___399">
+	<Id>399</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>153</Top>
+	<Left>1053</Left>
+	<Width>9</Width>
+	<Height>34</Height>
+	<Mask>0:0 1:144 0:3 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:3</Mask>
+	<Outlinks>274</Outlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___400">
+	<Id>400</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>153</Top>
+	<Left>1015</Left>
+	<Width>9</Width>
+	<Height>35</Height>
+	<Mask>0:0 1:144 0:3 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:3</Mask>
+	<Outlinks>273</Outlinks>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___401">
+	<Id>401</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>139</Top>
+	<Left>954</Left>
+	<Width>9</Width>
+	<Height>35</Height>
+	<Mask>0:4 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:2 1:144</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___402">
+	<Id>402</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>149</Top>
+	<Left>996</Left>
+	<Width>9</Width>
+	<Height>37</Height>
+	<Mask>0:0 1:144 0:3 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___403">
+	<Id>403</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>140</Top>
+	<Left>913</Left>
+	<Width>9</Width>
+	<Height>37</Height>
+	<Mask>0:0 1:144 0:3 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___404">
+	<Id>404</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>154</Top>
+	<Left>684</Left>
+	<Width>9</Width>
+	<Height>34</Height>
+	<Mask>0:0 1:135 0:2 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___405">
+	<Id>405</Id>
+	<ClassName>coloured_semiminima</ClassName>
+	<Top>153</Top>
+	<Left>701</Left>
+	<Width>11</Width>
+	<Height>38</Height>
+	<Mask>0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:4 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:3 1:8 0:3 1:8 0:3 1:8 0:3 1:8 0:3 1:8 0:3 1:8 0:3 1:8 0:3 1:8 0:3 1:8 0:3 1:8 0:3 1:8 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___406">
+	<Id>406</Id>
+	<ClassName>coloured_semiminima</ClassName>
+	<Top>152</Top>
+	<Left>720</Left>
+	<Width>11</Width>
+	<Height>38</Height>
+	<Mask>0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:4 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:3 1:8 0:3 1:8 0:3 1:8 0:3 1:8 0:3 1:8 0:3 1:8 0:3 1:8 0:3 1:8 0:3 1:8 0:3 1:8 0:3 1:8 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___407">
+	<Id>407</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>152</Top>
+	<Left>740</Left>
+	<Width>9</Width>
+	<Height>36</Height>
+	<Mask>0:0 1:135 0:3 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:2</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___408">
+	<Id>408</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>138</Top>
+	<Left>759</Left>
+	<Width>9</Width>
+	<Height>35</Height>
+	<Mask>0:4 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:2 1:135</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___409">
+	<Id>409</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>226</Top>
+	<Left>703</Left>
+	<Width>9</Width>
+	<Height>36</Height>
+	<Mask>0:0 1:135 0:2 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:4</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___410">
+	<Id>410</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>222</Top>
+	<Left>723</Left>
+	<Width>9</Width>
+	<Height>38</Height>
+	<Mask>0:0 1:135 0:3 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___411">
+	<Id>411</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>216</Top>
+	<Left>742</Left>
+	<Width>9</Width>
+	<Height>35</Height>
+	<Mask>0:0 1:135 0:3 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___412">
+	<Id>412</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>222</Top>
+	<Left>815</Left>
+	<Width>9</Width>
+	<Height>37</Height>
+	<Mask>0:0 1:144 0:2 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___413">
+	<Id>413</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>222</Top>
+	<Left>833</Left>
+	<Width>9</Width>
+	<Height>37</Height>
+	<Mask>0:0 1:144 0:3 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:2</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___414">
+	<Id>414</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>211</Top>
+	<Left>851</Left>
+	<Width>9</Width>
+	<Height>35</Height>
+	<Mask>0:3 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:3 1:144</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___415">
+	<Id>415</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>215</Top>
+	<Left>869</Left>
+	<Width>9</Width>
+	<Height>36</Height>
+	<Mask>0:0 1:144 0:3 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___416">
+	<Id>416</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>210</Top>
+	<Left>929</Left>
+	<Width>9</Width>
+	<Height>35</Height>
+	<Mask>0:4 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:1 1:135</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___417">
+	<Id>417</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>210</Top>
+	<Left>951</Left>
+	<Width>9</Width>
+	<Height>33</Height>
+	<Mask>0:4 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:1 1:135</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___418">
+	<Id>418</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>225</Top>
+	<Left>974</Left>
+	<Width>9</Width>
+	<Height>34</Height>
+	<Mask>0:0 1:135 0:1 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:4</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___419">
+	<Id>419</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>221</Top>
+	<Left>1045</Left>
+	<Width>9</Width>
+	<Height>36</Height>
+	<Mask>0:0 1:135 0:4 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:2</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___420">
+	<Id>420</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>287</Top>
+	<Left>1058</Left>
+	<Width>9</Width>
+	<Height>34</Height>
+	<Mask>0:3 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:2 1:135</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___421">
+	<Id>421</Id>
+	<ClassName>coloured_semiminima</ClassName>
+	<Top>296</Top>
+	<Left>916</Left>
+	<Width>11</Width>
+	<Height>38</Height>
+	<Mask>0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:5 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:7 1:4 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:9 0:2 1:8 0:3 1:8 0:3 1:8 0:3 1:8 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___422">
+	<Id>422</Id>
+	<ClassName>coloured_semiminima</ClassName>
+	<Top>292</Top>
+	<Left>894</Left>
+	<Width>10</Width>
+	<Height>39</Height>
+	<Mask>0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:5 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:6 1:4 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:8 0:2 1:8 0:2</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___423">
+	<Id>423</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>293</Top>
+	<Left>878</Left>
+	<Width>9</Width>
+	<Height>36</Height>
+	<Mask>0:0 1:135 0:3 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:2</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___424">
+	<Id>424</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>296</Top>
+	<Left>820</Left>
+	<Width>9</Width>
+	<Height>37</Height>
+	<Mask>0:0 1:135 0:3 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___425">
+	<Id>425</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>280</Top>
+	<Left>803</Left>
+	<Width>9</Width>
+	<Height>36</Height>
+	<Mask>0:3 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:3 1:135</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___426">
+	<Id>426</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>287</Top>
+	<Left>785</Left>
+	<Width>9</Width>
+	<Height>35</Height>
+	<Mask>0:4 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:2 1:135</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___427">
+	<Id>427</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>297</Top>
+	<Left>768</Left>
+	<Width>9</Width>
+	<Height>35</Height>
+	<Mask>0:0 1:135 0:3 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___428">
+	<Id>428</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>294</Top>
+	<Left>747</Left>
+	<Width>9</Width>
+	<Height>37</Height>
+	<Mask>0:0 1:135 0:3 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___429">
+	<Id>429</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>287</Top>
+	<Left>703</Left>
+	<Width>9</Width>
+	<Height>35</Height>
+	<Mask>0:3 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:2 1:144</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___430">
+	<Id>430</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>367</Top>
+	<Left>700</Left>
+	<Width>9</Width>
+	<Height>36</Height>
+	<Mask>0:0 1:144 0:2 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___431">
+	<Id>431</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>362</Top>
+	<Left>718</Left>
+	<Width>9</Width>
+	<Height>36</Height>
+	<Mask>0:0 1:144 0:3 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:2</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___432">
+	<Id>432</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>357</Top>
+	<Left>737</Left>
+	<Width>9</Width>
+	<Height>36</Height>
+	<Mask>0:0 1:144 0:3 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:2</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___433">
+	<Id>433</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>358</Top>
+	<Left>777</Left>
+	<Width>9</Width>
+	<Height>37</Height>
+	<Mask>0:0 1:144 0:2 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___434">
+	<Id>434</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>441</Top>
+	<Left>722</Left>
+	<Width>9</Width>
+	<Height>36</Height>
+	<Mask>0:0 1:144 0:3 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:6 1:3 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___435">
+	<Id>435</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>437</Top>
+	<Left>790</Left>
+	<Width>9</Width>
+	<Height>38</Height>
+	<Mask>0:0 1:144 0:2 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___436">
+	<Id>436</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>432</Top>
+	<Left>811</Left>
+	<Width>9</Width>
+	<Height>37</Height>
+	<Mask>0:0 1:144 0:3 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:2</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___437">
+	<Id>437</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>429</Top>
+	<Left>835</Left>
+	<Width>9</Width>
+	<Height>37</Height>
+	<Mask>0:0 1:144 0:3 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:2</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___438">
+	<Id>438</Id>
+	<ClassName>coloured_minima</ClassName>
+	<Top>428</Top>
+	<Left>874</Left>
+	<Width>9</Width>
+	<Height>36</Height>
+	<Mask>0:0 1:144 0:2 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:5 1:4 0:3</Mask>
+</CropObject>
+<CropObject xml:id="MUSCIMA-pp_1.0___R233_003___439">
+	<Id>439</Id>
+	<ClassName>longa</ClassName>
+	<Top>511</Top>
+	<Left>765</Left>
+	<Width>10</Width>
+	<Height>32</Height>
+	<Mask>0:0 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:9 0:1 1:20 0:6 1:4 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3 0:7 1:3</Mask>
+</CropObject>
+</CropObjects>
+</CropObjectList>
