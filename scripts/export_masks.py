@@ -53,7 +53,7 @@ def main(args):
 
     # Get union of all labels. (In some images, a label might not exist, but
     #  we still want to export at least the black screen.)
-    available_clsnames = [c.clsname for c in itertools.chain.from_iterable(mungs.values())]
+    available_clsnames = set([c.clsname for c in itertools.chain.from_iterable(mungs.values())])
 
     # Create output directories
     if not os.path.isdir(args.output_masks):
