@@ -31,6 +31,9 @@ def build_argument_parser():
     parser.add_argument('--output_labels', action='store',
                         help='Output root directory for exporting class label'
                              ' images.')
+    parser.add_argument('--export_fulls', action='store_true',
+                        help='If set, will export the input images as the ``fulls``'
+                             ' label.')
 
     parser.add_argument('-v', '--verbose', action='store_true',
                         help='Turn on INFO messages.')
@@ -68,6 +71,14 @@ def main(args):
         if not os.path.isdir(c_labels_dir):
             os.mkdir(c_labels_dir)
 
+    if args.export_fulls:
+        m_fulls_dir = os.path.join(args.output_masks, 'fulls')
+        if not os.path.isdir(m_fulls_dir):
+            os.mkdir(m_fulls_dir)
+        l_fulls_dir = os.path.join(args.output_labels, 'fulls')
+        if not os.path.isdir(l_fulls_dir):
+            os.mkdir(l_fulls_dir)
+
     # Get list of images
     available_img_names = [os.path.splitext(f)[0]
                            for f in os.listdir(args.img_dir)
@@ -85,6 +96,13 @@ def main(args):
         if not os.path.isfile(img_fpath):
             img_fpath = img_fpath[:-3] + 'jpg'
         img = imread(img_fpath, mode='L')
+
+        if args.export_fulls:
+            m_full_file = os.path.join(m_fulls_dir, os.path.basename(img_fpath))
+            imsave(m_full_file, img)
+            l_full_file = os.path.join(l_fulls_dir, os.path.basename(img_fpath))
+            imsave(l_full_file, img)
+
         img_h, img_w = img.shape
         mung = mungs[f]
         mung_dict = collections.defaultdict(list)
