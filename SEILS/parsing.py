@@ -273,6 +273,31 @@ CLF_DTREE_MAX_DEPTH = 50
 CLF_DTREE_MIN_SAMPLES_LEAF = 10
 
 
+class PairwiseParsingStrategy(object):
+    """Contains parameters of the training process: data point sampling,
+    feature extraction, classifier."""
+
+    def __init__(self,
+                 max_object_distance=THRESHOLD_NEGATIVE_DISTANCE,
+                 max_negative_samples_per_object=MAX_NEGATIVE_EXAMPLES_PER_OBJECT,
+                 clf_dtree_max_depth=CLF_DTREE_MAX_DEPTH,
+                 clf_dtree_min_samples_leaf=CLF_DTREE_MIN_SAMPLES_LEAF):
+        """Only fills in the (hyper)parameter values.
+
+        :param max_object_distance: Maximum distance over which objects can
+            be connected.
+
+        :param max_negative_samples_per_object:
+        :param clf_dtree_max_depth:
+        :param clf_dtree_min_samples_leaf:
+        :return:
+        """
+        self.max_object_distance = max_object_distance
+        self.max_negative_samples_per_object = max_negative_samples_per_object
+        self.clf_dtree_max_depth = clf_dtree_max_depth
+        self.clf_dtree_min_samples_leaf = clf_dtree_min_samples_leaf
+
+
 ##############################################################################
 
 
@@ -280,12 +305,7 @@ def symbol_distances(cropobjects):
     """For each pair of cropobjects, compute the closest distance between their
     bounding boxes.
 
-    -------
-    |     |
-    |     |
-    -------
-
-    Returns a dict of dicts, indexed by objid, then objid, then distance.
+    :returns: A dict of dicts, indexed by objid, then objid, then distance.
     """
     _start_time = time.clock()
     distances = {}
@@ -304,7 +324,6 @@ def symbol_distances(cropobjects):
     return distances
 
 
-# For each object, collect those within 100 pixels.
 def get_close_objects(dists, threshold=100):
     """Returns a dict: for each cropobject a list of cropobjects
     that are within the threshold."""
@@ -349,13 +368,18 @@ def positive_example_pairs(cropobjects):
     return positive_example_pairs
 
 
-def get_object_pairs(cropobjects):
-    negs = negative_example_pairs(cropobjects)
+def get_object_pairs(cropobjects,
+                     max_object_distance=THRESHOLD_NEGATIVE_DISTANCE,
+                     max_negative_samples=MAX_NEGATIVE_EXAMPLES_PER_OBJECT):
+
+    negs = negative_example_pairs(cropobjects,
+                                  threshold=max_object_distance,
+                                  max_per_object=max_negative_samples)
     poss = positive_example_pairs(cropobjects)
     return negs + poss
 
 
-def train_clf(mungs, max_dist=200, do_eval=False):
+def train_clf(mungs, strategy, do_eval=False):
     """Train the relationship classifier: a decision tree.
 
     :param mungs: The list of MuNG documents (list of lists of CropObjects).
@@ -372,7 +396,10 @@ def train_clf(mungs, max_dist=200, do_eval=False):
     # Sample training object pairs & extract their features
     features = []
     for mung in mungs:
-        object_pairs = get_object_pairs(mung)
+        object_pairs = get_object_pairs(
+            mung,
+            max_object_distance=strategy.max_object_distance,
+            max_negative_samples=strategy.max_negative_samples_per_object)
         f = [feature_extractor.get_features_distance_relative_bbox_and_clsname(u, v)
              for u, v in object_pairs]
         features.extend(f)
@@ -409,7 +436,8 @@ def train_clf(mungs, max_dist=200, do_eval=False):
     return feature_extractor.vectorizer, clf
 
 
-def create_parsing_model(mung_dir, output_dir, output_name, do_eval=False):
+def create_parsing_model(mung_dir, output_dir, output_name, do_eval=False,
+                         strategy=PairwiseParsingStrategy()):
     """Creates the vectorizer and parsing classifier and pickles
     them into the given directory.
 
@@ -422,6 +450,9 @@ def create_parsing_model(mung_dir, output_dir, output_name, do_eval=False):
     :param output_tag: The root name of the vectorizer and classifier.
         The final names will be created by adding ``.vectorizer.pkl``
         and ``classifier.pkl``.
+
+    :param strategy: Specify the (hyper)parameters of the parser through
+        a ``PairwiseParsingStrategy`` object.
     """
     mungs = []
     for f in os.listdir(mung_dir):
@@ -431,7 +462,7 @@ def create_parsing_model(mung_dir, output_dir, output_name, do_eval=False):
         mungs.append(mung)
 
     vectorizer, clf = train_clf(mungs,
-                                max_dist=THRESHOLD_NEGATIVE_DISTANCE,
+                                strategy=strategy,
                                 do_eval=do_eval)
 
     if not os.path.isdir(output_dir):

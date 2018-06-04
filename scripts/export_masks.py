@@ -62,9 +62,11 @@ def main(args):
         os.mkdir(args.output_labels)
     for c in available_clsnames:
         c_mask_dir = os.path.join(args.output_masks, c)
-        os.mkdir(c_mask_dir)
+        if not os.path.isdir(c_mask_dir):
+            os.mkdir(c_mask_dir)
         c_labels_dir = os.path.join(args.output_labels, c)
-        os.mkdir(c_labels_dir)
+        if not os.path.isdir(c_labels_dir):
+            os.mkdir(c_labels_dir)
 
     # Get list of images
     available_img_names = [os.path.splitext(f)[0]
@@ -79,7 +81,10 @@ def main(args):
     # For each available MuNG/image pair:
     for f in available_names:
         print('Processing image: {}'.format(f))
-        img = imread(os.path.join(args.img_dir, f), mode='L')
+        img_fpath = os.path.join(args.img_dir, f + '.png')
+        if not os.path.isfile(img_fpath):
+            img_fpath = img_fpath[:-3] + 'jpg'
+        img = imread(img_fpath, mode='L')
         img_h, img_w = img.shape
         mung = mungs[f]
         mung_dict = collections.defaultdict(list)
@@ -95,14 +100,14 @@ def main(args):
                 labels[m.top:m.bottom, m.left:m.right] = label * m.mask
 
             # Export labels image
-            output_labels_file = os.path.join(args.output_labels, f + '.png')
+            output_labels_file = os.path.join(args.output_labels, c, f + '.png')
             imsave(output_labels_file, labels)
 
             # Export masks image
-            output_mask_file = os.path.join(args.output_masks, f + '.png')
+            output_mask_file = os.path.join(args.output_masks, c, f + '.png')
             mask = labels * 1
             mask[mask != 0] = 1
-            imsave(output_mask_file, labels)
+            imsave(output_mask_file, mask)
 
     _end_time = time.clock()
     logging.info('SEILS export_masks.py done in {0:.3f} s'.format(_end_time - _start_time))
