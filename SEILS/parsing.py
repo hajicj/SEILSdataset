@@ -477,4 +477,23 @@ def create_parsing_model(mung_dir, output_dir, output_name, do_eval=False,
         pickle.dump(clf, hdl, protocol=pickle.HIGHEST_PROTOCOL)
 
 
+def load_parser(parser_dir, parser_name):
+    """Creates the PairwiseClassificationParser from the stored training
+    results."""
+    vec_name = os.path.join(parser_dir, parser_name + '.vectorizer.pkl')
+    with open(vec_name, 'wb') as hdl:
+        vectorizer = pickle.load(hdl)
+
+    clf_name = os.path.join(parser_dir, parser_name + '.classifier.pkl')
+    with open(clf_name, 'wb') as hdl:
+        clf = pickle.load(hdl)
+
+    feature_extractor = PairwiseClfFeatureExtractor(vectorizer=vectorizer)
+    parser = PairwiseClassificationParser(grammar=None,
+                                          clf=clf,
+                                          cropobject_feature_extractor=feature_extractor)
+
+    return parser
+
+
 ##############################################################################
